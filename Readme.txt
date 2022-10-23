@@ -8,3 +8,6 @@ Untracked files:
         Readme.txt
 
 nothing added to commit but untracked files present (use "git add" to track)
+
+objects: 80 (1 file), info, pack
+objects: 80 (2 files), de (1 file), info, pack
